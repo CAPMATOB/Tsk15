@@ -1,0 +1,15 @@
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.csproj.AssemblyReference.cache
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.AssemblyInfoInputs.cache
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.AssemblyInfo.cs
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.csproj.CoreCompileInputs.cache
+C:\Users\CAPMAT\Desktop\GB\Task15-master\bin\Debug\net6.0\Task15-master.exe
+C:\Users\CAPMAT\Desktop\GB\Task15-master\bin\Debug\net6.0\Task15-master.deps.json
+C:\Users\CAPMAT\Desktop\GB\Task15-master\bin\Debug\net6.0\Task15-master.runtimeconfig.json
+C:\Users\CAPMAT\Desktop\GB\Task15-master\bin\Debug\net6.0\Task15-master.dll
+C:\Users\CAPMAT\Desktop\GB\Task15-master\bin\Debug\net6.0\Task15-master.pdb
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.dll
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\refint\Task15-master.dll
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.pdb
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\Task15-master.genruntimeconfig.cache
+C:\Users\CAPMAT\Desktop\GB\Task15-master\obj\Debug\net6.0\ref\Task15-master.dll
